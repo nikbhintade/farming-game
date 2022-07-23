@@ -1,0 +1,12 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+.vscode
+
+#Hardhat files
+cache
+artifacts
+soljson-v0.8.15+commit.e14f2714.js
+*.lock
